@@ -7,6 +7,7 @@ public class DemoGit {
 
 	public static void main(String[] args) {
 		System.out.println("GIT demo");
+		System.out.println("new line");
 	}
 	
 }
