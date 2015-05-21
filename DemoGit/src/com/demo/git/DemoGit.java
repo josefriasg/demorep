@@ -12,6 +12,9 @@ public class DemoGit {
 		System.out.println("4th line modified by jose");
 		System.out.println("4th line modified by Freddy");
 		System.out.println("5th line modified by Freddy");
+		if(true) {
+			System.out.println("esto es para probar el outOfMemmory");
+		}
 	}
 	
 }
