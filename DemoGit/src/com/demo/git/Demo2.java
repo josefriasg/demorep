@@ -11,6 +11,7 @@ public class Demo2 {
 	public Demo2() {
 		
 		System.out.println("demo 2");
+		System.out.println("new line in file");
 
 	}
 
