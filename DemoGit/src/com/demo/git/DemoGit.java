@@ -11,6 +11,7 @@ public class DemoGit {
 		System.out.println("3rd line");
 		System.out.println("4th line modified by jose");
 		System.out.println("4th line modified by Freddy");
+		System.out.println("5th line modified by Freddy");
 	}
 	
 }
